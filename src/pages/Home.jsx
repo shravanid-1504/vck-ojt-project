@@ -9,15 +9,14 @@ const Home = () => {
           <img
             alt="Vivekanand College Campus"
             className="hero-banner-image"
-            src="https://vck.codewonders.in/assets/college-banner-Cz0xylpt.png"
+            src="/images/vckimage3.jpg"
           />
           <div className="hero-overlay-text">
             <h1>Welcome to Vivekanand College!</h1>
-            <p>Your journey to excellence starts here.</p>
-            <Link className="btn hero-btn" to="/Apply">Apply Now!</Link>
-          </div>
-        </div>
-
+            <center><p><h3>Your journey to excellence starts here.</h3></p></center>
+            <center><Link className="btn hero-btn" to="/Apply">Apply Now!</Link></center>
+            </div>
+            </div>
         <p>
           <strong>Vivekanand College</strong> is a premier educational institution dedicated to
           fostering academic excellence, innovation, and holistic development. Established in
@@ -43,8 +42,8 @@ const Home = () => {
 
         <h2>Campus Life &amp; Facilities</h2>
         <div className="image-gallery">
-          <img alt="Students studying in library" src="https://vck.codewonders.in/assets/students-studying-DbLGuwF_.jpeg"/>
-          <img alt="Students on campus ground" src="https://vck.codewonders.in/assets/campus-life-Crkero7B.jpg"/>
+          <img alt="Students studying in library" src="/images/vckimage2.jpg"/>
+          <img alt="Students on campus ground" src="/images/vckimage1.jpg"/>
         </div>
 
         <p>

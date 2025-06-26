@@ -15,7 +15,7 @@ const Courses = () => {
         <h2>Discover Campus Life</h2>
         <div className="video-container">
           <video controls width="100%" className="course-video">
-            <source src="https://vck.codewonders.in/assets/college-tour-FAmcnyfF.mp4" type="video/mp4" />
+            <source src="/videos/vckvideo1.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
           <p className="video-caption">
